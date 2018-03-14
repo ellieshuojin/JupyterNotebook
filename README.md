@@ -4,7 +4,7 @@
 
 * [Principal component analysis (PCA)](https://github.com/ellieshuojin/JupyterNotebook/blob/master/PCA.ipynb)
 * [Factor analysis](https://github.com/ellieshuojin/JupyterNotebook/blob/master/FactorAnalysis.ipynb)
-* [Independent component nalysis (ICA)]
+* [Independent component analysis (ICA)](https://github.com/ellieshuojin/JupyterNotebook/blob/master/ICA.ipynb)
 * [Clustering]
 * [Linear discriminant analysis]
 * [Logistic regression]
