@@ -6,7 +6,7 @@
 * [Factor analysis](https://github.com/ellieshuojin/JupyterNotebook/blob/master/FactorAnalysis.ipynb)
 * [Independent component analysis (ICA)](https://github.com/ellieshuojin/JupyterNotebook/blob/master/ICA.ipynb)
 * [Clustering](https://github.com/ellieshuojin/JupyterNotebook/blob/master/Clustering.ipynb)
-* [Linear discriminant analysis](https://github.com/ellieshuojin/JupyterNotebook/blob/master/LinDisc.ipynb)
+* [Linear discriminant analysis (LDA)](https://github.com/ellieshuojin/JupyterNotebook/blob/master/LinDisc.ipynb)
 * [Logistic regression]
 * [Support vector machine]
 * [Nearest neighbor methods]
